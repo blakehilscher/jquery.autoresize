@@ -1,0 +1,5 @@
+jQuery plugin for automatically expanding a textarea to fit the content.
+
+Example:
+
+$('textarea').autoresize();
